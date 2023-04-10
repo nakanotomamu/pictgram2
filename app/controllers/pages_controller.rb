@@ -5,7 +5,7 @@ class PagesController < ApplicationController
   def help
   end
   
-  def help
+  def link
   end
   
 end
